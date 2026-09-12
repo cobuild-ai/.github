@@ -54,6 +54,6 @@ All projects are licensed under **[Apache License 2.0](https://www.apache.org/li
 
 ## 📬 Contact
 
-- **Developer & Support**: [deartalkai.dev@gmail.com](mailto:deartalkai.dev@gmail.com)
-- **Security Issues**: [security@deartalk.ai](mailto:security@deartalk.ai)
-- **Testers Community**: [deartalkai-testers@googlegroups.com](https://groups.google.com/g/deartalkai-testers)
+- **Developer & Support**: [onthelogic@gmail.com](mailto:onthelogic@gmail.com)
+- **Security Issues**: [onthelogic@gmail.com](mailto:onthelogic@gmail.com)
+- **Testers Community**: [aibuilder-testers@googlegroups.com](https://groups.google.com/g/aibuilder-testers)

@@ -20,7 +20,7 @@ All cobuild-ai projects are architected with a **privacy-first, on-device** phil
 
 If you discover a potential security vulnerability in any cobuild-ai project, please report it responsibly:
 
-1. **Email:** Send details to `security@deartalk.ai` (or via [GitHub Security Advisory](https://docs.github.com/en/code-security/security-advisories)).
+1. **Email:** Send details to `onthelogic@gmail.com` (or via [GitHub Security Advisory](https://docs.github.com/en/code-security/security-advisories)).
 2. **Details to Include:**
    - The affected project and version.
    - Description of the vulnerability.
